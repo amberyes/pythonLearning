@@ -1,0 +1,86 @@
+1 :  Think Stats
+http://greenteapress.com/thinkstats/html/index.html
+2 :  Dive Into Python
+http://www.diveintopython.net/toc/index.html
+3 :  A Byte Of Python
+http://files.swaroopch.com/python/byteofpython_120.pdf
+4 :  Think Complexity
+http://greenteapress.com/complexity/html/index.html
+5 :  Dive Into Python 3
+http://getpython3.com/diveintopython3/whats-new.html
+6 :  DJANGO TUTORIAL
+https://docs.djangoproject.com/en/dev/intro/
+7 :  Building Skills In OOP
+http://www.itmaybeahack.com/book/oodesign-python-2.1/html/index.html
+8 :  Pyramid For Humans
+http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/humans/index.html
+9 :  Flask Microframework
+http://flask.pocoo.org/docs/tutorial/
+10 :  Building Skills In Python
+http://www.itmaybeahack.com/book/python-2.6/html/index.html
+11 :  Kivy Programming Guide
+http://kivy.org/docs/pdf/Kivy-latest.pdf
+12 :  Snake Wrangling For Kids
+http://www.briggs.net.nz/snake-wrangling-for-kids.html
+13 :  An Introduction To Python
+http://beastie.cs.ua.edu/cs150/book/index.html
+14 :  Programmez Avec Python 2
+http://inforef.be/swi/download/apprendre_python.pdf
+15 :  Programmez Avec Python 3
+http://inforef.be/swi/download/apprendre_python3_5.pdf
+16 :  Python Module Of The Week
+http://www.doughellmann.com/PyMOTW/contents.html
+17 :  Learn Python The Hard Way
+http://learnpythonthehardway.org/book/
+18 :  The Standard Python Library
+http://effbot.org/zone/librarybook-index.htm
+19 :  Building Skills In Programming
+http://www.itmaybeahack.com/homepage/books/nonprog/html/index.html
+20 :  Python Scientific Lecture Notes
+http://scipy-lectures.github.com/
+21 :  Making Games With Python &amp; Pygame
+http://inventwithpython.com/pygame/chapters/
+22 :  Python 101 (an introduction to python)
+http://cutter.rexx.com/~dkuhlman/python_101/python_101.html
+23 :  How To Think Like A Computer Scientist
+http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf
+24 :  Natural Language Processing With Python
+https://sites.google.com/site/naturallanguagetoolkit/book
+25 :  Programming Computer Vision With Python
+http://programmingcomputervision.com/downloads/Draft_20120318.pdf
+26 :  
+http://www.jiathis.com/share?uid=1745061" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis
+27 :  <i class="fa fa-user"></i> 个人主页
+http://www.jobbole.com/members/伯乐
+28 :  <i class="fa fa-file-text-o"></i> 我的文章
+http://blog.jobbole.com/author/伯乐/
+29 :  <i class="fa fa-comments-o"></i> 3
+http://group.jobbole.com/22945/
+30 :  <i class="fa fa-comments-o"></i> 2
+http://blog.jobbole.com/112168/#comments
+31 :  在Android自助安装Linux
+http://blog.jobbole.com/112499/#comments
+32 :  某些关于神经网络的不当观点和用法
+http://group.jobbole.com/33466/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic" title="在Android自助安装Linux
+33 :  写了一个Vim-Markdown预览插件，欢迎使用
+http://group.jobbole.com/33450/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic" title="某些关于神经网络的不当观点和用法
+34 :  <i class="fa fa-comments-o"></i> 2
+http://group.jobbole.com/33377/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic" title="写了一个Vim-Markdown预览插件，欢迎使用
+35 :  一线互联网常见的14个Java面试题，你颤抖了吗程序员
+http://group.jobbole.com/33377/#comments
+36 :  深入浅出JVM之垃圾收集算法
+http://group.jobbole.com/33336/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic" title="一线互联网常见的14个Java面试题，你颤抖了吗程序员
+37 :  各位觉得大公司的规定适合小公司吗？
+http://group.jobbole.com/33333/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic" title="深入浅出JVM之垃圾收集算法
+38 :  <i class="fa fa-comments-o"></i> 6
+http://group.jobbole.com/33292/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic" title="各位觉得大公司的规定适合小公司吗？
+39 :  <i class="fa fa-comments-o"></i> 2
+http://group.jobbole.com/33292/#comments
+40 :  <i class="fa fa-comments-o"></i> 6
+http://group.jobbole.com/22945/
+41 :  <i class="fa fa-comments-o"></i> 3
+http://blog.jobbole.com/106093/
+42 :  <i class="fa fa-comments-o"></i> 4
+http://top.jobbole.com/39313/#comments
+43 :  精选工具资源
+http://top.jobbole.com/38654/#comments
